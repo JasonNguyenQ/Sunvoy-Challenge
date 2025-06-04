@@ -10,10 +10,6 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {
-    "fs": "^0.0.1-security",
-    "playwright": "^1.52.0"
-  },
   "devDependencies": {
     "@types/node": "^22.15.29"
   }
